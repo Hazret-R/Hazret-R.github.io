@@ -1,0 +1,17 @@
+.container-fluid {
+    height: 7vh;
+
+}
+
+.navbar-collapse {
+    height: 7vh;
+}
+
+.navbar-nav {
+    height: 7vh;
+}
+
+.nav-item {
+    background-color: red;
+    height: 7vh;
+}
